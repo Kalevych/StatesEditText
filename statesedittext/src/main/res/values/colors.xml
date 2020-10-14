@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorStateEditTextGreen">#207a20</color>
+    <color name="colorStateEditTextError">#aa2020</color>
+    <color name="colorStateEditTextDark">#303030</color>
+    <color name="colorStateEditTextDark70">#aa303030</color>
+</resources>
