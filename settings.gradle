@@ -1,3 +1,2 @@
 include ':statesedittext'
-include ':app'
 rootProject.name = "My Application"
